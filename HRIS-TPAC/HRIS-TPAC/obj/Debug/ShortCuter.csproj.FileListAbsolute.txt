@@ -1,0 +1,10 @@
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\bin\Debug\ShortCuter.exe
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\bin\Debug\ShortCuter.pdb
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.csprojAssemblyReference.cache
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.Form1.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.Properties.Resources.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.csproj.GenerateResource.cache
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.csproj.CoreCompileInputs.cache
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.exe
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.pdb
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.HR.Form2.resources

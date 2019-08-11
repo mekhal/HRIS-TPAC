@@ -1,0 +1,15 @@
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\bin\Debug\HRIS-TPAC.exe
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\bin\Debug\HRIS-TPAC.pdb
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRISTPAC.Main.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.Properties.Resources.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.HRFormsMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.HRMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.ITFormMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.ITMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.LeaveMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\ShortCuter.SubMenu.OrganizationMenu.resources
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRIS-TPAC.csproj.GenerateResource.cache
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRIS-TPAC.csproj.CoreCompileInputs.cache
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRIS-TPAC.exe
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRIS-TPAC.pdb
+C:\Users\Mekha\source\repos\ShortCuter\ShortCuter\obj\Debug\HRIS-TPAC.csprojAssemblyReference.cache
